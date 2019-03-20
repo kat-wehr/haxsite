@@ -37,44 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [
-    [
-        "pages\/item-beaa65e5-105d-4aaf-95d6-bcff35d18ef8\/index.html",
-        "VvfPMH8MFNNz9n1VkYOpUQ"
-    ],
-    [
-        "",
-        "uK5SHVaZ1Y8YtY5hkH2Q"
-    ],
-    [
-        "\/",
-        "5yK7MMYmVDM9ZuRyYRcg"
-    ],
-    [
-        "index.html",
-        "3lb3JoeaNmD9cnJsFuVygg"
-    ],
-    [
-        "manifest.json",
-        "AGfHdezXINXD6lrtRwTEw"
-    ],
-    [
-        "site.json",
-        "n7yNr8lBkzuyUAygyO7dA"
-    ],
-    [
-        "assets\/favicon.ico",
-        "HaBSbnoy8mFDNU595Wburg"
-    ],
-    [
-        "404.html",
-        "dSqOj2FfwLtvzh03W3Gyg"
-    ],
-    [
-        "files\/Screen Shot 2019-01-15 at 3.09.15 PM.png",
-        "RiWZJ5G3WYyU2gPWdjg0A"
-    ]
-];
+var precacheConfig = {{ swhash|json_encode(constant('JSON_PRETTY_PRINT'))|raw }};
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 
 
@@ -323,4 +286,4 @@ self.addEventListener('fetch', function (event) {
 
 // Runtime cache configuration, using the sw-toolbox library.
 
-toolbox.router.get(/(https?:\/\/cdn\.waxam\.io(\/[A-Za-z0-9\-\._~:\/\?#\[\]@!$&'\(\)\*\+,;\=]*)?)/, toolbox.fastest, {});
+toolbox.router.get(/{{ cdnRegex|raw }}/, toolbox.fastest, {});

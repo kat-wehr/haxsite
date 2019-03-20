@@ -6,9 +6,8 @@
     "license": "by-sa",
     "metadata": {
         "siteName": "haxsite",
-        "domain": "https:\/\/kat-wehr.github.io\/haxsite",
         "created": 1553103274,
-        "updated": 1553103274,
+        "updated": 1553105003,
         "theme": {
             "element": "simple-blog",
             "path": "@lrnwebcomponents\/simple-blog\/simple-blog.js",
@@ -65,13 +64,13 @@
             "id": "item-beaa65e5-105d-4aaf-95d6-bcff35d18ef8",
             "indent": 0,
             "location": "pages\/item-beaa65e5-105d-4aaf-95d6-bcff35d18ef8\/index.html",
-            "order": 0,
+            "order": 2,
             "parent": null,
-            "title": "New page",
+            "title": "CV",
             "description": "Ex uno Plures",
             "metadata": {
                 "created": 1553103274,
-                "updated": 1553103569,
+                "updated": 1553105003,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/another-new-site\/files\/Screen Shot 2019-01-15 at 3.09.15 PM.png",
@@ -82,6 +81,32 @@
                         "size": 973829
                     }
                 ]
+            }
+        },
+        {
+            "id": "item-d3abec0c-6320-4017-b72f-65943ac06dbc",
+            "indent": 0,
+            "location": "pages\/home-page\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "Home Page",
+            "description": "",
+            "metadata": {
+                "created": 1553105003,
+                "updated": 1553105003
+            }
+        },
+        {
+            "id": "item-182b9b72-7986-436a-a1b0-3c32211885b4",
+            "indent": 0,
+            "location": "pages\/blog-1\/index.html",
+            "order": 1,
+            "parent": null,
+            "title": "Blog 1",
+            "description": "",
+            "metadata": {
+                "created": 1553105003,
+                "updated": 1553105003
             }
         }
     ]

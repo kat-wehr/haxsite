@@ -1,23 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>another new site</title>
-  <link href="https://kat-wehr.github.io/another-new-site/atom.xml" rel="self" />
+  <link href="/atom.xml" rel="self" />
   <subtitle></subtitle>
   <updated>2019-03-20T17:34:34+00:00</updated>
   <author>
       <name></name>
   </author>
-  <id>https://kat-wehr.github.io/another-new-site/feed</id>
+  <id>/feed</id>
   <entry>
-    <title>New page</title>
-    <id>https://kat-wehr.github.io/another-new-site/item-beaa65e5-105d-4aaf-95d6-bcff35d18ef8</id>
-    <updated>2019-03-20T17:39:29+00:00</updated>
+    <title>CV</title>
+    <id>/item-beaa65e5-105d-4aaf-95d6-bcff35d18ef8</id>
+    <updated>2019-03-20T18:03:23+00:00</updated>
     <published>2019-03-20T17:34:34+00:00</published>
     <summary>Ex uno Plures</summary>
-    <link href="https://kat-wehr.github.io/another-new-site/item-beaa65e5-105d-4aaf-95d6-bcff35d18ef8"/>
+    <link href="/item-beaa65e5-105d-4aaf-95d6-bcff35d18ef8"/>
     
     <content type="html">
       <![CDATA[ Ex uno Plures ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Home Page</title>
+    <id>/home-page</id>
+    <updated>2019-03-20T18:03:23+00:00</updated>
+    <published>2019-03-20T18:03:23+00:00</published>
+    <summary></summary>
+    <link href="/home-page"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Blog 1</title>
+    <id>/blog-1</id>
+    <updated>2019-03-20T18:03:23+00:00</updated>
+    <published>2019-03-20T18:03:23+00:00</published>
+    <summary></summary>
+    <link href="/blog-1"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
     </content>
   </entry>
 </feed>

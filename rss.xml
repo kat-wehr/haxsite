@@ -2,20 +2,40 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>another new site</title>
-    <link>https://kat-wehr.github.io/another-new-site/rss.xml</link>
+    <link>/rss.xml</link>
     <description></description>
-    <copyright>Copyright (C) 2019 https://kat-wehr.github.io/another-new-site</copyright>
+    <copyright>Copyright (C) 2019 </copyright>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Mar 2019 17:34:34 +0000</lastBuildDate>
-    <atom:link href="https://kat-wehr.github.io/another-new-site/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>New page</title>
-      <link>https://kat-wehr.github.io/another-new-site/item-beaa65e5-105d-4aaf-95d6-bcff35d18ef8</link>
+      <title>CV</title>
+      <link>/item-beaa65e5-105d-4aaf-95d6-bcff35d18ef8</link>
       <description>
           <![CDATA[ Ex uno Plures ]]>
       </description>
       <category></category>
-      <guid>https://kat-wehr.github.io/another-new-site/item-beaa65e5-105d-4aaf-95d6-bcff35d18ef8</guid>
+      <guid>/item-beaa65e5-105d-4aaf-95d6-bcff35d18ef8</guid>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Home Page</title>
+      <link>/home-page</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/home-page</guid>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Blog 1</title>
+      <link>/blog-1</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/blog-1</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
   </channel>

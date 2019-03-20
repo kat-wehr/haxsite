@@ -11,13 +11,13 @@
   <entry>
     <title>CV</title>
     <id>/cv</id>
-    <updated>2019-03-20T18:04:33+00:00</updated>
+    <updated>2019-03-20T18:13:30+00:00</updated>
     <published>2019-03-20T17:34:34+00:00</published>
-    <summary>Ex uno Plures</summary>
+    <summary>A new text line.This is a header</summary>
     <link href="/cv"/>
     
     <content type="html">
-      <![CDATA[ Ex uno Plures ]]>
+      <![CDATA[ A new text line.This is a header ]]>
     </content>
   </entry>
   <entry>

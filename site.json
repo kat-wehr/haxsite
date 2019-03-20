@@ -7,11 +7,11 @@
     "metadata": {
         "siteName": "haxsite",
         "created": 1553103274,
-        "updated": 1553105003,
+        "updated": 1553105026,
         "theme": {
-            "element": "simple-blog",
-            "path": "@lrnwebcomponents\/simple-blog\/simple-blog.js",
-            "name": "Simple blog"
+            "element": "learn-two-theme",
+            "path": "@lrnwebcomponents\/learn-two-theme\/learn-two-theme.js",
+            "name": "Learn"
         },
         "image": "assets\/banner.jpg",
         "hexCode": "#7e00d8",

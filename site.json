@@ -70,7 +70,17 @@
             "description": "Ex uno Plures",
             "metadata": {
                 "created": 1553103274,
-                "updated": 1553103515
+                "updated": 1553103515,
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/_sites\/another-new-site\/files\/Screen Shot 2019-01-15 at 3.09.15 PM.png",
+                        "fullUrl": "\/_sites\/another-new-site\/files\/Screen Shot 2019-01-15 at 3.09.15 PM.png",
+                        "url": "files\/Screen Shot 2019-01-15 at 3.09.15 PM.png",
+                        "type": "image\/png",
+                        "name": "Screen Shot 2019-01-15 at 3.09.15 PM.png",
+                        "size": 973829
+                    }
+                ]
             }
         }
     ]

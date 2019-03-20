@@ -5,8 +5,8 @@
     "description": "",
     "license": "by-sa",
     "metadata": {
-        "siteName": "another-new-site",
-        "domain": "https:\/\/kat-wehr.github.io\/another-new-site",
+        "siteName": "haxsite",
+        "domain": "https:\/\/kat-wehr.github.io\/haxsite",
         "created": 1553103274,
         "updated": 1553103274,
         "theme": {
@@ -21,7 +21,7 @@
             "git": {
                 "vendor": "github",
                 "branch": "gh-pages",
-                "url": "git@github.com:kat-wehr\/another new site.git",
+                "url": "git@github.com:kat-wehr\/haxsite.git",
                 "cdn": "cdn.waxam.io"
             }
         },
@@ -57,7 +57,8 @@
             "video-player": "@lrnwebcomponents\/video-player\/video-player.js",
             "wave-player": "@lrnwebcomponents\/wave-player\/wave-player.js",
             "wikipedia-query": "@lrnwebcomponents\/wikipedia-query\/wikipedia-query.js"
-        }
+        },
+        "lastPublished": 1553104580
     },
     "items": [
         {

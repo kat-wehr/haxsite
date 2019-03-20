@@ -67,12 +67,11 @@
             "order": 0,
             "parent": null,
             "title": "New page",
-            "description": "",
+            "description": "Ex uno Plures",
             "metadata": {
                 "created": 1553103274,
-                "updated": 1553103274
+                "updated": 1553103515
             }
         }
-    ],
-    "location": "\/_sites\/another-new-site\/index.html"
+    ]
 }

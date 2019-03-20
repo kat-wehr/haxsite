@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>another new site</title>
+    <link>https://kat-wehr.github.io/another-new-site/rss.xml</link>
+    <description></description>
+    <copyright>Copyright (C) 2019 https://kat-wehr.github.io/another-new-site</copyright>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Mar 2019 17:34:34 +0000</lastBuildDate>
+    <atom:link href="https://kat-wehr.github.io/another-new-site/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>New page</title>
+      <link>https://kat-wehr.github.io/another-new-site/item-beaa65e5-105d-4aaf-95d6-bcff35d18ef8</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>https://kat-wehr.github.io/another-new-site/item-beaa65e5-105d-4aaf-95d6-bcff35d18ef8</guid>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
